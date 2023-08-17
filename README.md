@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Stanislav and I'm a FullStack (Node+React) Developer, from Ukraine</h2>
-
+<h2 align="left">Hi 👋! My name is Stanislav and I'm a FullStack (Node+React) Developer
+  
 ###
 
 <div align="left">
@@ -50,8 +50,8 @@
   </a>
   <a href="https://www.instagram.com/stas_tymoshchuk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<!--   </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
 </div>
 
 ###
@@ -59,6 +59,46 @@
 <br clear="both">
 
 <img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="snake" />
+
+###
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=imsts&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=imsts&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      </picture>
+    </td>
+    <td style="width: 50%;">
+      <a href="https://github.com/imsts">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsts&layout=compact&theme=radical" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+###
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imsts" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsts&layout=compact&langs_count=8&card_width=320" />
+</a> -->
+
+###
+
+
 
 
 
