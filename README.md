@@ -55,3 +55,10 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="snake" />
+
+
+
