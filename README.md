@@ -1,5 +1,29 @@
 <h2 align="left">Hi 👋! My name is Stanislav and I'm a FullStack (Node+React) Developer
-  
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/imsts/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/AeliusWD" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
+  <a href="https://t.me/imstsv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/stas_tymoshchuk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<!--   </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="snake" />
+
 ###
 
 <div align="left">
@@ -38,33 +62,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/imsts/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/AeliusWD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-  <a href="https://t.me/imstsv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/stas_tymoshchuk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-<!--   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="snake" />
-
-###
-
-<link rel="stylesheet" type="text/css" href="styles.css">
-
-<div class="stats-container">
+<div class="stats-container" style="display: flex; gap: 10px;">
   <div class="stats-block">
     <picture>
       <source
@@ -78,6 +76,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </picture>
   </div>
+  
+  <br/>
+  
   <div class="stats-block">
     <a href="https://github.com/imsts">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsts&layout=compact&theme=radical" alt="Top Langs" />
@@ -86,16 +87,9 @@
 </div>
 
 
-###
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imsts" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsts&layout=compact&langs_count=8&card_width=320" />
-</a> -->
 
-###
+
 
 
 
