@@ -62,7 +62,7 @@
 
 ###
 
-<div class="stats-container" style="display: flex; gap: 10px;">
+<!-- <div class="stats-container" style="display: flex; gap: 10px;">
   <div class="stats-block">
     <picture>
       <source
@@ -84,7 +84,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsts&layout=compact&theme=radical" alt="Top Langs" />
     </a>
   </div>
-</div>
+</div> -->
 
 
 
