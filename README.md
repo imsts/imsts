@@ -62,29 +62,28 @@
 
 ###
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=imsts&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=imsts&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-      </picture>
-    </td>
-    <td style="width: 50%;">
-      <a href="https://github.com/imsts">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsts&layout=compact&theme=radical" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
+<link rel="stylesheet" type="text/css" href="styles.css">
 
+<div class="stats-container">
+  <div class="stats-block">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=imsts&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=imsts&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    </picture>
+  </div>
+  <div class="stats-block">
+    <a href="https://github.com/imsts">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsts&layout=compact&theme=radical" alt="Top Langs" />
+    </a>
+  </div>
+</div>
 
 
 ###
